@@ -1,0 +1,12 @@
+class PlayerArcher
+{
+    constructor()
+    {
+        
+    }
+
+    display()
+    {
+
+    }
+}
